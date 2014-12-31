@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="swear_sayings">
+        <item>OH SHIT</item>
+        <item>FUCK YEA</item>
+        <item>SWEET</item>
+        <item>WHAT\'S GOING ON?</item>
+        <item>TAKE IT EASY MAN</item>
+        <item>FUCK</item>
+        <item>ALRIGHT LET\'S DO IT</item>
+        <item>HOLY SHIT</item>
+        <item>DAMN...</item>
+        <item>FUCK. SHIT</item>
+        <item>YEA</item>
+        <item>DAMNIT</item>
+        <item>ALRIGHT COOL</item>
+        <item>YO DAWG</item>
+        <item>WHAT THE FUCK</item>
+        <item>MAN...</item>
+        <item>UMMMM...</item>
+        <item>THICK SOLID TIGHT</item>
+        <item>BRAH</item>
+        <item>HOLY FUCKIN HELL</item>
+        <item>HMM... IT\'S</item>
+        <item>BROSEPTOPOTAMUS</item>
+        <item>FUCK SHIT BALLS</item>
+        <item>WHAT THE FUCK</item>
+        <item>I DUNNO...</item>
+        <item>OH. WOW</item>
+        <item>FUCKING SHIT</item>
+        <item>LOOKING SEXY</item>
+        <item>FUCK MAN</item>
+        <item>I UNDERSTAND</item>
+        <item>HELL YEA</item>
+    </string-array>
+
+</resources>
